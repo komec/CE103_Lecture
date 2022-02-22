@@ -3,7 +3,7 @@
 ## GEBZE TECHNICAL UNIVERSITY -  DEPARTMENT OF CIVIL ENGINEERING
 
 ### CE 103 Introduction to Computers and Programming  
-# _2020-2021 Spring_
+# _2021-2022 Spring_
 
 This lecture meant to serve as an introduction to the Python programming for Civil Engineering undergraduate students. It has enriched content with solved examples based on specific Civil Engineering problems.
 
@@ -14,6 +14,7 @@ This lecture meant to serve as an introduction to the Python programming for Civ
 ---
 ### Teaching Assistants :
 ##### Oğuz Dal --> _odal@gtu.edu.tr_
+##### Nurullah Açıkgöz --> _nacikgoz@gtu.edu.tr_
 
 ---
 
